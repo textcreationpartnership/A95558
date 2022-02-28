@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iohn Taylors manifestation and iust vindication against Iosua Church his exclamation, with a true relation of Church his generation, with his soule combination, with a pretence of reformation, of his wrong'd occupation, hath brought all out of fashion.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95558</idno>
+            <idno type="STC">Wing T480</idno>
+            <idno type="STC">Thomason E238_8</idno>
+            <idno type="STC">ESTC R2711</idno>
+            <idno type="EEBO-CITATION">99872151</idno>
+            <idno type="PROQUEST">99872151</idno>
+            <idno type="VID">124575</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95558)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124575)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 41:E238[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iohn Taylors manifestation and iust vindication against Iosua Church his exclamation, with a true relation of Church his generation, with his soule combination, with a pretence of reformation, of his wrong'd occupation, hath brought all out of fashion.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Hammond.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Church was a hostile waterman. Cf. DNB.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church, Joshua.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124575:1" rendition="simple:additions"/>
+            <p>Iohn Taylors MANIFESTATION, <hi>AND</hi> IVST VINDICATION Againſt <hi>IOSVA CHVRCH</hi> HIS Exclamation, WITH A TRVE <hi>RELATION</hi> OF <hi>Church</hi> his <hi>Generation,</hi> with his foule <hi>Combination,</hi> with a pretence of <hi>Reformation,</hi> of his wrong'd <hi>Occupation,</hi> hath brought all out of <hi>Faſhion.</hi>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>Iohn Hammond.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:124575:2"/>
+            <head>Iohn Taylors Manifeſtation <hi>AND</hi> luſt Vindication againſt <hi>Ioſua Church</hi> his Exclamation, with a true Relation of <hi>Church</hi> his Generation, with his foule Combination, with pretence of Reformation, of his wrong'd Ocupation, hath brought all out of Faſhion.</head>
+            <p>MAſter <hi>Church</hi> (for I can give you no leſſe ſtile) although I have ever hated to dip my pen in filth, and mud: for the Proverb ſayes, that whoſoever wraſtles with a ſir Reve<g ref="char:EOLhyphen"/>rence, that whether he give or take the fall, he ſhall be ſure to foule his fingers; but the generall, many and mighty wrongs done by you Mr. <hi>Church,</hi> and your aſſociates, whom you have ſeduced againſt the government of the Watermen, eſtabliſhed by Acts of Parliament theſe 86 yeares: and Orders alſo made, approved and confirmed by the Rulers and Aſſiſtants of the Watermen, by the Lord Mayor of London, and Court of Aldermen, and by the Lords of the Right Honourable privie Councell, to five great Kings and Queenes <hi>(vide<g ref="char:EOLhyphen"/>licet)</hi> to King <hi>Philip,</hi> Queen <hi>Mary,</hi> Queen <hi>Elizabeth,</hi> King <hi>Iames,</hi> and K. <hi>Charles,</hi> all theſe Lawes &amp; Orders have been long withſtood and oppoſed by you, and others whom you have miſ-led, as ſhall be plainly proved by that which followeth. But firſt I will deſcribe your perſon (and part of your inviſible good qualities) and then I will proceed to your manner of Reſormation.</p>
+            <p>Firſt, it is well <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nown, that you have over lied a conſtant courſe of life, you have from your beginning ſhewed your ſelfe your mo<g ref="char:EOLhyphen"/>thers ſon; and as you have her Baboon Monkeyfied viſage, ſo ſhee leſt you a large portion of curſings imprecations, and ſome wicked oathes (of which rare parts ſhe was well ſtored) and you have im<g ref="char:EOLhyphen"/>proved them ſo well, that you did dare to lend an oath againſt mee at a triall ten yeares paſt in Guild-hall; and had I not beene intrea<g ref="char:EOLhyphen"/>ted by the Lord Mayor, I had gone neere to have made a match be<g ref="char:EOLhyphen"/>twixt the pillory and your eares; and though your malice prevat<g ref="char:EOLhyphen"/>ion not then (for the cauſe went on my ſide) yet your ſpite is of that
+<pb facs="tcp:124575:2"/>laſting metall, that it hath firſt and laſt continued theſe 18. yeares. But a word or two more of your mother is not unſutable.</p>
+            <p>It is further known, that in her widowhood you were bound Apprentice to her, and for the true deſerving of your freedome, you oftentimes ſpent what you got, allowing her little or nothing, you moſt commonly miſta<g ref="char:EOLhyphen"/>king the way, gave your gettings to the Ale-houſe inſtead of your mother; by which ſervice of yours, ſhee was beggerd, and glad to take the Almes of the Watermens Hall towards her reliefe: your lodging was the moſt fit<g ref="char:EOLhyphen"/>ting for you in thoſe dayes; for it was many times in the cold Winter at Summers Key in a dung hoat, where you battned in the warme dung; and from the dung you had the name of <hi>Vermin,</hi> which name you have to this day. For your Summers recreation your lodging was under a Crane at the Cuſtome-houſe; and in theſe kinde of courſes you came to be a Water<g ref="char:EOLhyphen"/>man.</p>
+            <p>After your freedome, your mother hath many times asked you bleſsing upon her knees, moſt pittifully begging two tokens of you; which you uncharitably denying, ſhe (well knowing you) would call you damnd Rogue, and give you her bleſsing the cleane contrary way.</p>
+            <p>After this your hebaviour was ſo meritorious, that upon complaints and proofes to our Hall my ſelfe with my brethren being Maſters of the Com<g ref="char:EOLhyphen"/>pany) have divers times by fines and impriſonments juſtly puniſhed you both in body and purſe, although your demerits have deſerved a curteſie often times more to be inflicted upon you. For theſe doings of mine, and other of our Rulers, Mr. <hi>Church</hi> hath been angry theſe eighteen yeares, and (to keep your anger ſtill in motion) the Covernours or Rulers have rub'd up your memory, either with a reproofe, a fine, or a iayle, which you have deſerved as due wages for your good conditions: And for theſe things you beare us bitter malice. It was once my fortune to ſee a Dogge han<g ref="char:EOLhyphen"/>ged that had one quality very like a fooliſh tricke which you have, which was, that if a man had caſt or hurld a ſtone at him, the Curre wound runne and bite the ſaid ſtone, and not meddle at all with the party that threw it: So you (Mr. <hi>Vermin</hi>) when you have been a litle toucht for your Rogury, and for your deboſhed abuſes, then you ſnarle, ſnap, bite and back-bite us that are the doers of iuſtice; but you never remember that your baſe miſdemeanour which was the cauſe that caſt theſe grievances upon you.</p>
+            <p>In revenge of theſe parts of Iuſtice you have (for many yeares) practi<g ref="char:EOLhyphen"/>ſed to overthrow all order, rule and government, you did eleven yeares paſt, raiſe many hundreds of Watermen in a combination for that wicked intent; yet all your knavery was covered with a cloake of Reformation: there you taxed me and all my brethren, with bribery, corruption, and ma<g ref="char:EOLhyphen"/>ny vile abuſes, which the Lord Mayor then (being Sir <hi>Robert Duty</hi>) with the Court of Aldermen, did put to the examination of a Committee; which Committee did make report to the ſaid Court, that wee the Rulers
+<pb facs="tcp:124575:3"/>were cleare of thoſe ſcandals, and that all your prating was but lies and ſla<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ders; by which meanes we were free from your malice, till within theſe two yeare. In which time you have beſtird your ſelfe as if the Divell were in you, having made a ſtrong combination with many thouſands of water<g ref="char:EOLhyphen"/>men, perſwading them not to obey the Rulers, nor to come to their Hall upon their being warned thither for any wrongs which they ſhall com<g ref="char:EOLhyphen"/>mit: You have boaſted that it was now Parliament time, and therefore you may doe what you liſt; and when the Maſter of his Majeſties Barge told you, that if we did him or any other Water-man injury, that upon com<g ref="char:EOLhyphen"/>plaint made of it to the Lord Moior and proofes made of it, that then the Lord Maior had power to right him or them, and ſeverely to puniſh us To which you anſwered, that the Lord Maior was your ſlave, and that you would have the government ſhortly out of his hands. You at (another time) pointed with your finger to our Hal, and called it a Rookes Neſt, and that you had one hand in the Neſt alreadie, and that ſhortlie you would pluck all the Rookes out: And we have ſince that time been three ſeverall times aſſaulted in our Hall, ſo that we have at everie of thoſe times been forced to call the Conſtables to defend us from violence, and the Conſtables will certifie that we have been abuſed.</p>
+            <p>You Mr. <hi>(Church)</hi> came latelie into our Hall, and in a pilfring manner you tooke cloſe up out of an out of an outward Roome, a Table of Orders that hanged there, by the Lord Maiors command, that water-men might read and heare how they ſhould be governed: for the which fact I had you with a warrant before a Iuſtice, who would not bind you over to the Aſſi<g ref="char:EOLhyphen"/>zes, becauſe you Bauld and lied to him, that our grievnnces were to bee heard by a Committee in Parliament, within fourteen daies after. I am ſure you lied then: for it was much about Alholowtide and we have no hea<g ref="char:EOLhyphen"/>ring yet, I would to God we had.</p>
+            <p>You and your Conſorts have vowed to have me hanged, and <hi>Goodale</hi> ſwore hee would have my heart in his hand, and ſhake it, and one <hi>Matthew Bur<g ref="char:EOLhyphen"/>ton,</hi> becauſe he could not hang me, he went and hang'd himſelfe upon a Sun<g ref="char:EOLhyphen"/>day morning, being the firſt of Auguſt laſt; but by chance his wiſe and o<g ref="char:EOLhyphen"/>thers came timelie and cut him downe; that being the firſt Sunday that hee made Holi-day: for he did formerlie uſe to worke on all other Sabbaths. Another that ſerved but 4 years Apprentiſhip in all, for before 7. yeares were expired, he had two wives, he for preferment (hoping to bee Maſtor of the <hi>Queenes Barge</hi>) turnd Recuſant, and failing of his hopes, remaines an ordinary waterman; and he ſaid lately, that there would be Roman Catho<g ref="char:EOLhyphen"/>lickes enough left as might drink a health to all our confuſions; or elſe that there would be Iriſh enough to cut all our throats. Theſe (and ſome o<g ref="char:EOLhyphen"/>ther like theſe) are your Aſſociates to reforme abuſes; but you being their Leader, doe verifie the old Proverb, that it is a ſweet Proceſſion where the Divell carries the Croſſe. You framed fiftie Articles againſt us in Parlia<g ref="char:EOLhyphen"/>ment,
+<pb facs="tcp:124575:3"/>which upon hearing, I doubt not but will gaine you your reward, for alledging ſo many lies againſt us in ſo honourable an Aſſembly.</p>
+            <p>By your doings and Rebellious courſes you have made the Thames a wilderneſſe: for there is neither command nor obedience; but you have done reaſonable well for your ſelfe, in collecting moneyes from many hundreds of watermen, promiſing them wondrous buſineſſes to bee done; and with that moneyes you have well repaired your ſelfe with gold Bottons and Loops (if the ſuit be not pawned) but I wiſh that your Painter that can play the Kinde-Coale ſolicitor ſo well, I would have him (or ſome other) to paint your comely Effigies in that ſuit, and hang it up for the pi<g ref="char:EOLhyphen"/>cture of <hi>Ill luck.</hi>
+            </p>
+            <p>You did doe your beſt the other day to draw mee into as much dan<g ref="char:EOLhyphen"/>ger as you deſerved, by averring that I ſpake moſt wicked abuſive words againſt ſome Parliament men; <hi>I</hi> would have you know (Mr. <hi>Ver<g ref="char:EOLhyphen"/>min</hi>) that <hi>I</hi> was never ſuch a Knave to ſpeake ſuch (or any bad words) to any private friend, where <hi>I</hi> thought my counſell would bee kept. But <hi>I</hi> were a Villaine, a Knave and a Foole, if <hi>I</hi> would have ſaid any thing before you and your Com-Rogues, whom <hi>I</hi> knew to bee my mortall enemies, and ſuch as would ſpread my words ten times broader then my meaning.</p>
+            <p>You have brought the River to that paſſe, that watermen doe ply how and where they liſt, that they abuſe Fares, and exact upon them, that they fight, brawle, raile, revile, throw ſtones and Brick-bats, and for all this, there is no puniſhment: for you have told them that it is Par<g ref="char:EOLhyphen"/>liament time.</p>
+            <p>For theſe ſweet behaviours of yours you deſerve to bee Knighted with a woodden Dagger, to bee made Knight of the Poſt (or whipped at a Poſt) and <hi>I</hi> doubt nor but all the watermen whom you have miſ-led, and taken their moneyes, will ſhortly day, that they have (by your perſwaſi<g ref="char:EOLhyphen"/>on) had a bad opinion of mee and the reſt of my brethren, and aſſure your ſelfe, <hi>I</hi> feare you not, nor doe <hi>I</hi> hate any of you all; and whoſoever hee be that either feares or hates you, muſt needs be guilty of ſome foule thing, which you charge him with. Wee have all too many faults, and he that de<g ref="char:EOLhyphen"/>ſires not amendment, let the Divell have him: if you or any man can Iuſtly taxe me, beſhrew you, if you ſpare me: therefore Jadviſe you, Mr. <hi>Church,</hi> not to diſpaire becauſe you have fold your Two VViſe Acres of Thiſtle<g ref="char:EOLhyphen"/>ground, for when all trades faile, you may ſerve for a witneſſe for any mans love or money, or elſe, if <hi>I</hi> doe grow rich (as it is not impoſſible) <hi>I</hi> will entertaine you to be my foole, and all this, Mr. <hi>Church, I</hi> hope, is no <hi>Scan<g ref="char:EOLhyphen"/>dalla Magnatum.</hi>
+            </p>
+            <pb facs="tcp:124575:4"/>
+            <p> I know you are a merry fellow, for you had lately a Piper, a Fuller, you lacked but your Trumpeter at the <hi>Blackfriers,</hi> good Sack and Tobacco at a Taverne in <hi>New-Fiſh-streete,</hi> where you ſung Old Roſe, or John Dory, and cryed Hey the generallity payes for all.</p>
+            <p>And now to tell you a few words in ſober ſadneſſe, me thinks you ſhould know that I am not ſo bad as to be your Companion or to be thus abuſed by you, I have ſerved ſeven times at ſea in Queen <hi>Elizabeths</hi> ſervice, I have been a ſervant in in ordinary to King <hi>Iames</hi> &amp; King <hi>Charles</hi> 27 yeers, I have been Ruler of my company 8 ſeverall yeers, I have borne offices, and paid Subſidies, and all duties theſe 40. yeers, I have written 220. Books, where<g ref="char:EOLhyphen"/>in I have pleaſed both Kings, Princes, Peers and Commons (for I have nei<g ref="char:EOLhyphen"/>ther written profanely, or obſcenely, nor have I any hand at all in thoſe Roguiſh Helliſh Lies and Lybells that flutters daily about the ſtreets; And therefore (Mr. <hi>Church</hi>) you that doe hardly pay one halfe penny a week to the poore, and never had any other office but a Box-keeper at the Temple, to the Gameſters in Chriſtmas time; methinks you ſhould have more manners than to abuſe me thus without a cauſe, as you have done; and a little more diſcretion then to thinke your teſtimony or witneſſe can ſtand againſt me; or you in any degree to be my companion.</p>
+            <p>With all theſe vertues of yours, you doe now ſeek and ſtrive to be a Ru<g ref="char:EOLhyphen"/>ler or Governour of the Water-mens Company, for you would have 8. ho<g ref="char:EOLhyphen"/>neſt men to be ſworne (I doubt not but you meane your ſelfe for one; but moſt (Worthy Sir) you muſt learne firſt how to obey, before you will know how to rule, and it is a plaine caſe, that if 8. ſuch fellows as you were ſworne Rulers, we were like to have a mad government: for you have brought the Riuer into that diſorder, that whereas the Parliament with ex<g ref="char:EOLhyphen"/>ceeding paines and charge, have ſate long, whom (with the King, God continue in unity) theſe Worthies I ſay, ſitting late about the great affaires of the Church and Kingdome, their Coaches that waited on them, have had their Ax<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ltree pins ſtolen out by Watermen, on purpoſe to make the Gentlemen goe by water, or elſe if they went by Coach, the VVheles might flee off to the endangering of thoſe that were in it; ſuch Villany was never uſed till you overthrew our Government.</p>
+            <p>You tax us, that we give no account for all the moneys that wee receive at our Hall, either for Fines, or Quarteridge, or any thing elſe. Indeed we have been forgetfull to make account to you or your Companions: but when occaſion ſhall ſerve, we will ſhew your betters Books of account, of 40 yeers continuance, with our Auditors hands at them, for the troath is, wee neither Receive nor disburſe any moneys, but upon oath wee account for it yeerly.</p>
+            <p>You ſay that we have 5 or 6 ſervants apiece, and when that a preſſe is for men to ſerue the King at ſea, then we doe ſpare our owne men, and preſſe
+<pb facs="tcp:124575:4"/>others, and that we doe preſſe the moſt Religious and honeſt men; to which Lye I muſt anſwere, that I doe not know any VVatermen, that hath three men and though the company be in Number 4000 at leaſt, yet there are not above 50 of that number, that have Two men apiece, and the moſt of them are Auntient VVatermen, and paſt their labour, and ſome of them not their ſervants doe never carry any paſſenger, but worke in Lighters to car<g ref="char:EOLhyphen"/>ry Coales and other goods: for mine owne part, I have but one ſervant, and if a preſse doe come, I had Rather he ſhould goe then ſtay at home, al<g ref="char:EOLhyphen"/>though I am ſure that I doe never trouble any one of you to carry a <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re from you.</p>
+            <p>You likewiſe ſcandall me, with the Company, with a preſſe for men that went into Germany 10 yeers agoe, you ſlander me with buying and ſelling of men there, but the troath is, we were not Authors of that preſſe, nor had we power to denie the warrants which we have to ſhew, and as for any buying or ſelling, or any corruption that way, or any other, I Pray you take my word, I doe but laugh at your foolery.</p>
+            <p>I would wiſh as many of the generalitie as doe deſire to bee more guld then they are, to gather more money, for you are lately fallen moſt wickedly out of reparations; and now you and ſome of your leading crew, ſeeing their cauſe is bad, they and you doe patch it up with railing and reviling. And ſo I take leave of you as you are, overwhelmed with igno<g ref="char:EOLhyphen"/>rance and malice.</p>
+            <p>Your miſchievous malice was apparantly ſeen on Thurſday laſt the third of February 1641, For you knew that the Rulers of our Compa<g ref="char:EOLhyphen"/>ny were warned that day to appeare before the Lord Mayor and Court of Aldermen (upon your complaint) and you knew further, that I be<g ref="char:EOLhyphen"/>ing Clarke of the Company, was to bee the onely man to ſpeake and ſhew writings in our defence againſt your ſlanders.</p>
+            <p>Then (Mr. <hi>Church</hi>) with a tricke that you had, you went or ſent for a Deputy to a Serjeant at Armes, to attach me and bring mee before an Honourable Committee of the Houſe of Commons. This you did on purpoſe to take me off ſuddenly, becauſe our Company ſhould bee un<g ref="char:EOLhyphen"/>provided to oppoſe your lies and ſlanders: But all your knavery would not ſerve; for I had that favour to ſtay and doe my ſervice, and afterwards I went before the Committe, whom I found to bee Gentlemen of ſuch wiſedome and gravity, that I conceive that but little credit was given to your teſtimony: for if any bad ſpeeches had proceeded from mee, you ought not to have concealed ſuch things three weekes and more.</p>
+            <p>But you (in a triumphing manner) made haſte towards the Thames, and told ſome Water-men, that you had layd mee faſt, and that I was in layie, and to be hanged the next Munday, and that I was at twenty ſhillings charge every day to a Meſſenger.</p>
+            <pb facs="tcp:124575:5"/>
+            <p> All this, and a great deale more, you have done to uphold your c<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> with ſuch men as have been deceived by your trolling tongue; but I <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that ſhortly you ſhall be knowne what you are: For there is not any thing that I have ſaid or done in my life, to make me feare you or any others by your perſwaſions.</p>
+         </div>
+         <div type="postscript">
+            <head>The Poſt-ſcript.</head>
+            <p>IN imitation of your great Maſter (the Divell) you, with ſome others, did on wedneſday laſt (before a right worſhipfull Committee) at the Guild-Hall, London, with moſt odious lies and clamours, abuſe and accuſe my ſelfe and all others that ever have been Rulers, and ſo with noyſe and multitude you did your beſt and worſt to drowne all our iuſt defences. But that Committee (<hi>I</hi> know) in their grave wiſedomes, will conſider of what my ſelfe with my Brethren and you are; to whoſe report <hi>I</hi> with all honeſt men doe humbly ſubmit; but you with ſome others made haſte to the Thames ſide, and at divers places you did bragge, that you had caſt the Maſters and old Aſſiſtants out from all manner of further govern<g ref="char:EOLhyphen"/>ment: And in ſo ſaying, you ſhewed your ſelfe a boaſting, lying Rogue.</p>
+            <p>Indeed you have gulld ſo many men of their monyes, that (to dawb up your ragged credit) you muſt ſtop their mouthes with ſomewhat, either bragging or lying; wherein the King himſelfe hath not eſcaped your iee<g ref="char:EOLhyphen"/>ring malice: for you in a ſcoffing manner, ſaie (on Sunday laſt, Februry 6. in an Ale-houſe, that if the King did ſtay but a little longer at Windſor, that they would make him Maior of the Town. Such a kinde of ſawcineſſe hath ſometimes very well deſerved a whip; to which <hi>I</hi> leave you, Mr. <hi>Ver<g ref="char:EOLhyphen"/>min.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
